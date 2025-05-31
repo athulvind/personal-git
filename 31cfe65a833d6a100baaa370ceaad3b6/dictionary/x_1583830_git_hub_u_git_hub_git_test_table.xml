@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="8da2b6de833d6a100baaa370ceaad34d" label="git test table" max_length="40" name="x_1583830_git_hub_u_git_hub_git_test_table" type="collection">
+        <element label="Test filed" max_length="40" name="test_filedu" type="string"/>
+    </element>
+</database>
